@@ -21,7 +21,7 @@
 
    Use `git push` to push
 
-### Credits
+## Credits
 
  Lead Developer: @Maneesh-Gona
  
@@ -29,5 +29,5 @@
  
  Product Owner: @Maneesh-Gona
 
-### License
+## License
  The MIT License (MIT)
